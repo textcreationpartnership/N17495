@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022638_0000_0FBA8F1D34BF4FA8"/>
-            <pb facs="tcp:022638_0001_0FBA8F1EA4ADEC50"/>
+            <pb facs="unknown:022638_0000_0FBA8F1D34BF4FA8"/>
+            <pb facs="unknown:022638_0001_0FBA8F1EA4ADEC50"/>
             <p>THE RECONCILIATION; OR THE TRIUMPH OF NATURE: A COMIC OPERA, IN TWO ACTS. BY PETER MARKOE.</p>
             <q>
                <l>Nunc haec plané eſt pro novâ.</l>
@@ -130,21 +130,21 @@
             <p>M.DCC.XC.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:022638_0002_0FBA8F202EE6BAA8"/>
+            <pb facs="unknown:022638_0002_0FBA8F202EE6BAA8"/>
             <p>TO HIS EXCELLENCY THOMAS MIFFLIN, ESQ. Preſident of the State of Pennſylvania; AND TO THE HONORABLE THOMAS M'KEAN, ESQ. Chief Juſtice of the ſaid State; THIS <hi>COMIC OPERA,</hi> Approved of by them in their official Capacity according to Law; but withdrawn from the Managers of the Theatre, after it had remained in their hands more than four Months;</p>
             <closer>
                <signed>IS, WITH DUE ACKNOWLEDGMENT FOR THEIR CANDOR, AND IN TESTIMONY OF HIS RESPECT, INSCRIBED BY Their obliged And humble Servant, THE AUTHOR.</signed>
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:022638_0003_0FBA8F21D0A951E0"/>
+            <pb facs="unknown:022638_0003_0FBA8F21D0A951E0"/>
             <head>THE PREFACE.</head>
             <p>A REVISAL and correction of "E<g ref="char:EOLhyphen"/>raſtus," literally tranſlated by a native of Germany, lately arrived in Pennſyl<g ref="char:EOLhyphen"/>vania, gave riſe to the following piece. The happy ſimplicity of the German original, written in one act by the ce<g ref="char:EOLhyphen"/>lebrated Geſner, ſuggeſted an enlarge<g ref="char:EOLhyphen"/>ment of the plan. A new character is added, ſongs are introduced, and the dialogue ſo modelled, as to be ren<g ref="char:EOLhyphen"/>dered (it is preſumed) pleaſing to an American ear.</p>
             <p>
-               <pb n="vi" facs="tcp:022638_0004_0FBA8F2350205B60"/>Thoſe, who underſtand the German and Engliſh languages, will, on com<g ref="char:EOLhyphen"/>paring the two pieces, readily perceive the difference between them. To their candor, and to the indulgence of the public, "the RECONCILIATION, &amp;c." is ſubmited.</p>
+               <pb n="vi" facs="unknown:022638_0004_0FBA8F2350205B60"/>Thoſe, who underſtand the German and Engliſh languages, will, on com<g ref="char:EOLhyphen"/>paring the two pieces, readily perceive the difference between them. To their candor, and to the indulgence of the public, "the RECONCILIATION, &amp;c." is ſubmited.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:022638_0005_0FB9B6815BE26998"/>
+            <pb facs="unknown:022638_0005_0FB9B6815BE26998"/>
             <head>Dramatis Perſonae.</head>
             <list>
                <head>MEN.</head>
@@ -163,7 +163,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:022638_0006_0FB9B686ACC77870"/>
+            <pb facs="unknown:022638_0006_0FB9B686ACC77870"/>
             <head>THE RECONCILIATION, &amp;c.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -184,7 +184,7 @@
                                     <l>The hearth rejoic'd her with its blaze;</l>
                                     <l>The jack alertly went.</l>
                                     <l>
-                                       <pb n="10" facs="tcp:022638_0007_0FB9B68BEA819780"/>Since Simon leaves his love to weep,</l>
+                                       <pb n="10" facs="unknown:022638_0007_0FB9B68BEA819780"/>Since Simon leaves his love to weep,</l>
                                     <l>No comfort can ſhe know;</l>
                                     <l>The jack eternally may ſleep;</l>
                                     <l>And Debby's cake is dough.</l>
@@ -228,7 +228,7 @@
                      <p>She is mending ſome old clothes; and now and then ſhe ſings a hymn to keep up her ſpirits.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:022638_0008_0FB9B68ED16D0F40"/>
+                     <pb n="11" facs="unknown:022638_0008_0FB9B68ED16D0F40"/>
                      <speaker>WILSON.</speaker>
                      <p>At once pious and induſtrious!—Let the fire be ready againſt Simon returns. He at leaſt will not come back empty-handed, as he took with him that which commands a ſelfiſh world.</p>
                   </sp>
@@ -264,7 +264,7 @@
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="12" facs="tcp:022638_0009_0FB9B68F9E7C3AD0"/>
+                  <pb n="12" facs="unknown:022638_0009_0FB9B68F9E7C3AD0"/>
                   <head>SCENE IV.</head>
                   <stage>WILSON, DEBORAH.</stage>
                   <sp>
@@ -296,7 +296,7 @@
                      <speaker>WILSON</speaker>
                      <stage>alone.</stage>
                      <p>Incomparable woman! how piouſly reſigned to, the will of Heaven! Alone, ſhe indulges in the extreme of ſorrow; but at my approach the ſmiles of conjugal affection add new luſtre to her charms. Joy ſeems to triumph on her countenance, leſt grief ſhould lour on mine. The wife is ſtudious to cheer the boſom of her deſponding huſband, whilſt the woman and the mother feels internally all the horrors of her ſituation. Such virtue is entitled to reward. But as for me, O! that diſ<g ref="char:EOLhyphen"/>treſs were my lot only!—that I alone were doom<g ref="char:EOLhyphen"/>ed to miſery—provided that ſhe and my ſon were happy! Our poverty increaſes. Age, accelerated by grief and ſickneſs, advances with rapid ſtrides. My money is nearly exhauſted; and alas! I have no credit. Deſerted by my father, from whom can
-<pb n="13" facs="tcp:022638_0010_0FB9B6911AF0A6F8"/>
+<pb n="13" facs="unknown:022638_0010_0FB9B6911AF0A6F8"/>
 I expect relief? The exertions of my induſtry have been deſtroyed by the late ſtorm. Twelve years have elapſed, ſince I entreated forgiveneſs from my father in a letter fraught with filial con<g ref="char:EOLhyphen"/>trition. Alas! can the fault, which I have com<g ref="char:EOLhyphen"/>mitted, excuſe his ſeverity? Deteſting treachery towards a woman, who united herſelf to me in conſequence of my moſt ſolemn promiſes, I have diſcharged the duty of a man of honour, although in ſo doing I acted contrary to his commands. Not all the glare of riches, not all the pride of dominion, could have ſoothed the horrors of my mind, had I conſigned to obloquy and diſgrace a woman, who juſtly lays claim to univerſal eſteem. But let me not deſpond. Nature will aſ<g ref="char:EOLhyphen"/>ſert her rights, and the heart of my father muſt at length relent. My ſon approaches! Gracious Heaven! to what miſery may he not be expoſed! I will conceal my ſorrow, and aſſume the ſem<g ref="char:EOLhyphen"/>blance of contentment, whilſt anguiſh preys upon my heart. Hitherto ſecluded from the world, his converſation is neceſſarily puerile, but his heart, I truſt, is good, and his underſtanding not defective.</p>
                   </sp>
                </div>
@@ -316,7 +316,7 @@ I expect relief? The exertions of my induſtry have been deſtroyed by the late 
                      <p>I have been this hour or two with the boy, who minds the ſheep on the hill. The poor fellow made me quite ſorrowful.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:022638_0011_0FB9B69750548EA8"/>
+                     <pb n="14" facs="unknown:022638_0011_0FB9B69750548EA8"/>
                      <speaker>WILSON.</speaker>
                      <p>But why?</p>
                   </sp>
@@ -358,7 +358,7 @@ I expect relief? The exertions of my induſtry have been deſtroyed by the late 
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="15" facs="tcp:022638_0012_0FB9B698A4314240"/>
+                  <pb n="15" facs="unknown:022638_0012_0FB9B698A4314240"/>
                   <head>SCENE VII.</head>
                   <sp>
                      <speaker>WILSON</speaker>
@@ -392,7 +392,7 @@ I expect relief? The exertions of my induſtry have been deſtroyed by the late 
                   <sp>
                      <speaker>WILSON.</speaker>
                      <p>What tenderneſs do you not bear towards the man, who has heaped ſuch miſery on you, as
-<pb n="16" facs="tcp:022638_0013_0FB9B69A61F7CD00"/>
+<pb n="16" facs="unknown:022638_0013_0FB9B69A61F7CD00"/>
 might have turned love into hatred, and bleſſings into execrations!</p>
                   </sp>
                   <sp>
@@ -414,7 +414,7 @@ might have turned love into hatred, and bleſſings into execrations!</p>
                   <sp>
                      <speaker>AMELIA.</speaker>
                      <p>Beſt of huſbands! why ſhould you give way to deſpondence, ſince the extremity of diſtreſs is as yet at a diſtance? Fruits at leaſt we may reaſon<g ref="char:EOLhyphen"/>ably expect from our ſon at his return. But ſhould
-<pb n="17" facs="tcp:022638_0014_0FB9B69B9A1EFB30"/>
+<pb n="17" facs="unknown:022638_0014_0FB9B69B9A1EFB30"/>
 his exertions prove vain, Simon will undoubtedly bring a ſupply from town.</p>
                   </sp>
                   <sp>
@@ -444,7 +444,7 @@ his exertions prove vain, Simon will undoubtedly bring a ſupply from town.</p>
                   <sp>
                      <speaker>WILSON.</speaker>
                      <p>True. But great muſt be his trials. Reflect on our own ſufferings. No ſooner had I experienced
-<pb n="18" facs="tcp:022638_0015_0FB9B6A18A39F738"/>
+<pb n="18" facs="unknown:022638_0015_0FB9B6A18A39F738"/>
 the frowns of my father, and expended our little property, than every trace of friendſhip and conſo<g ref="char:EOLhyphen"/>lation vaniſhed. Deſerted by mankind, on what can we reſt our hopes?</p>
                   </sp>
                   <sp>
@@ -487,7 +487,7 @@ the frowns of my father, and expended our little property, than every trace of f
                   <sp>
                      <speaker>AMELIA.</speaker>
                      <p>Our ſituation is not abſolutely deſperate, and may even be productive of bliſs. Both religion and fortitude condemn our diſcontent. I lately viſited a female neighbour. How much more
-<pb n="19" facs="tcp:022638_0016_0FB9B6A3DFA3A7B8"/>
+<pb n="19" facs="unknown:022638_0016_0FB9B6A3DFA3A7B8"/>
 grievous are her ſufferings than ours? Poorer than ourſelves, ſhe is moreover aged, infirm and help<g ref="char:EOLhyphen"/>leſs. All her proſpects terminate in pain and diſ<g ref="char:EOLhyphen"/>treſs. Yet calamity has not entirely depreſſed her mind. Death alone can adminiſter comfort to her; but longer ſufferings muſt precede that conſolation.—And ſhall an uneducated woman exhibit an example to us, which we are incapable of following?</p>
                   </sp>
                   <sp>
@@ -503,7 +503,7 @@ grievous are her ſufferings than ours? Poorer than ourſelves, ſhe is moreover
                      <p>Amelia, you are entitled to my warmeſt ac<g ref="char:EOLhyphen"/>knowledgments. What a bleſſing do I not poſ<g ref="char:EOLhyphen"/>ſeſs in you! You have ſpoken peace to my deſ<g ref="char:EOLhyphen"/>ponding mind, and added ſtrength to my waver<g ref="char:EOLhyphen"/>ing reaſon. The ſenſations I now feel reſemble the ſerenity of the midnight hour rendered plea<g ref="char:EOLhyphen"/>ſing by the gentle effulgence of the moon, more than the fervid ſplendor of the meredian fun. My diſtreſs has its ſource in the implacability of my father. O! if at the hour of his death, I ſhould not be preſent to receive his benediction, ſtill he will remember his ſon, and bleſs the unhappy being, to whom he gave exiſtence!</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:022638_0017_0FB9B6A559FAB220"/>
+                     <pb n="20" facs="unknown:022638_0017_0FB9B6A559FAB220"/>
                      <speaker>AMELIA.</speaker>
                      <p>Beſt of men! your melancholy would have ſoon yielded to the exertion of your own reaſon. Ani<g ref="char:EOLhyphen"/>mated by the beſt intentions, I have endeavour<g ref="char:EOLhyphen"/>ed to diſcharge the duty of a wife in ſuggeſting thoſe conſolatory ideas, which after a ſhort ſpace would have occurred to yourſelf. With reſpect to a reconciliation with your father, would to Heaven your wiſhes were ſpeedily accompliſhed! But as for me—unhappy woman!—the object of his fixed, his unalterable reſentment—</p>
                   </sp>
@@ -524,7 +524,7 @@ grievous are her ſufferings than ours? Poorer than ourſelves, ſhe is moreover
                      <p>Had he received them, it were an outrage to nature to ſuppoſe, that—</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:022638_0018_0FB9B6AD2B4ADED8"/>
+                     <pb n="21" facs="unknown:022638_0018_0FB9B6AD2B4ADED8"/>
                      <speaker>WILSON.</speaker>
                      <p>An outrage indeed!—You, who once loved me with all the ardour of paternal affection; who delighted in every juvenile diſplay of my ripen<g ref="char:EOLhyphen"/>ing talents—how could you entail on me your inexpiable anger!—In the hour of ſerious reflec<g ref="char:EOLhyphen"/>tion, when your diſpleaſure calls tears from my eyes, my conſcience is free from remorſe. Had I juſtly incurred your wrath, how ſhould I have endured exiſtence! I yet hope, I yet claim, your affection!—Let me indulge the rapturous idea! Perhaps his anger is appeaſed! Perhaps he pities a ſon, whom he has expoſed to the ſtorms of misfortune. I will write to him, and endea<g ref="char:EOLhyphen"/>vour to rouſe the latent ſparks of affection in his boſom. They cannot be utterly extinguiſhed. This day, this hour I will write to him. Come, my Amelia! and aſſiſt me in the arduous under<g ref="char:EOLhyphen"/>taking.</p>
                   </sp>
@@ -539,16 +539,16 @@ grievous are her ſufferings than ours? Poorer than ourſelves, ſhe is moreover
                      <speaker>SIMON</speaker>
                      <stage>alone, with a Baſket in his Hand.</stage>
                      <p>Is the coaſt clear? Yes; they are gone. I am heartily glad of it. I do not wiſh, they ſhould ſee me yet awhile—But why ſo, Simon!—A bad con<g ref="char:EOLhyphen"/>ſcience is the reaſon; otherwiſe the ſight of your beſt friends would be as agreeable to you as ever.—What a buſtle in my boſom! My heart is in a terrible uproar. It ſtrikes againſt my ſide like a tennis-ball;—and my pulſe too—it gallops like a troop of horſe. My breaſt feels as if a mountain were on it. Simon! you are a cow<g ref="char:EOLhyphen"/>ard!—not I; I am no coward; a little afraid or
-<pb n="22" facs="tcp:022638_0019_0FB9B6AF1CB61130"/>
+<pb n="22" facs="unknown:022638_0019_0FB9B6AF1CB61130"/>
 ſo.—If I am a knave, I am at leaſt a well-meaning, praiſe-worthy ſort of a knave. I have acted from the beſt of principles; a wiſh to relieve the diſtreſ<g ref="char:EOLhyphen"/>ſed. Who calls me a robber?—I ſay, he is a good for nothing, lying ſon of a—I am an ho<g ref="char:EOLhyphen"/>neſt, truſt-worthy, tender-hearted fellow. So, Mr. Conſcience! I beg of you to be quiet, and give me no further trouble. If I had committed this robbery—I ſay, if I had made free with the old gentleman's purſe from bad motives—why—it might have been called a robbery. But as I acted from pure, diſintereſted motives—it is no robbe<g ref="char:EOLhyphen"/>ry at all; not in the leaſt. Intention and circum<g ref="char:EOLhyphen"/>ſtances quite alter the nature of things. I'll be hanged, if there is any crime at all in it. Yet— I do not know how it happens—I tremble in eve<g ref="char:EOLhyphen"/>ry limb, as if I deſerved to be hanged indeed. I would not for the world old Deborah ſhould ſee me. She would ſwear the gallows was in my face.
 <stage>(Taking a purſe out of his pocket.)</stage>
 Here is the ri<g ref="char:EOLhyphen"/>no!—What charming muſic it makes in the old green purſe! This will put Debby in tune, and make her pot boil merrily for ſome weeks at leaſt. But it was obtained unjuſtly—and on the high-way too—if I had tricked a man out of it in the way of a bargain, there would have been no harm done— But to act ſo barefacedly!—Simon! you old knave! you will certainly pay for this one day or another. Good Mr. Conſcience! forgive me for this time—it is my firſt offence—and I will never do ſo any more. You pull an honeſt fellow's heart<g ref="char:EOLhyphen"/>ſtrings ſo ſeverely, that I vow and proteſt, it is better to die peaceably with hunger, than to live in luxury after having once offended you. It is very true, that, becauſe our worthy family are in a ſtarving condition, I did preſume to aſk a traveller—perhaps rather in a peremptory ſtyle—for
-<pb n="23" facs="tcp:022638_0020_0FB9B6B0AF8DF728"/>
+<pb n="23" facs="unknown:022638_0020_0FB9B6B0AF8DF728"/>
 a trifle, of which he can be in no great want. He will ſoon have recourſe to his bureau, which will make him ample amends for the pityful ſum I bor<g ref="char:EOLhyphen"/>rowed from him. But after all is it not a burning ſhame, that the rich ſhould wallow in exceſs, whilſt my worthy maſter, his charming Amelia, the young gentleman, their ſon; and honeſt Si<g ref="char:EOLhyphen"/>mon, not forgetting greaſy Deborah—are ready at times to periſh with hunger in theſe regions of miſery? I ſay, it is a ſcandalous thing; and who dares ſay to tne contrary?—O Lud! O Lud!— I hear ſomebody coming.—No—What a ſimple<g ref="char:EOLhyphen"/>ton I am!—Simon! take heart; you have given proofs of courage; you muſt now diſplay your wiſdom. But, as I hate to be croſs-queſtioned, let me think on what I may ſafely ſay.—Honeſt Simon! ſtick to the truth.—You old fool! do you mean to tie the rope about your own neck?—A hard tax upon my veracity!—I'll tell him—what? That will never do—worſe, and worſe, you block-head!—I am at my wits ends. I'll tell him—yes— this will do; now I have it. I'll tell him, that a great man, whom I do not know, met me—I have forgot where—and aſked me, if I was yet in Mr. George Wilſon's ſervice; told me, that he had heard lately of his diſtreſſed circumſtances; piti<g ref="char:EOLhyphen"/>ed him much—and a great deal more to the ſame purpoſe—and ſo—this good, worthy gentleman— Who is coming?—Only Mr. William—I am ſo ſtinted in time, that I fear I ſhall make but a ſor<g ref="char:EOLhyphen"/>ry piece of work of it. Whilſt I am thinking of a plauſible ſtory, I will trifle away a minute or two with this over-grown boy, who knows no more of the world, than if he did not belong to it.—Honeſt Simon, I fear after all, you will turn out but a pitiful liar, and a paltry politician.</p>
                   </sp>
                </div>
                <div n="10" type="scene">
-                  <pb n="24" facs="tcp:022638_0021_0FB9B6B2F44ADB28"/>
+                  <pb n="24" facs="unknown:022638_0021_0FB9B6B2F44ADB28"/>
                   <head>SCENE X.</head>
                   <stage>SIMON, WILLIAM.</stage>
                   <sp>
@@ -594,7 +594,7 @@ a trifle, of which he can be in no great want. He will ſoon have recourſe to h
                   <sp>
                      <speaker>WILLIAM.</speaker>
                      <p>This news, Simon! will be of great comfort to father and mother. Till you came, we had not a morſel in the houſe. To-day, I ſaw mother in tears, as ſhe was at work. She did not ſee me, but ſhe ſighed and wept in ſuch a manner, that I could not help weeping too. As ſhe turned round, ſhe perceived me, and then wiped her eyes, be<g ref="char:EOLhyphen"/>cauſe ſhe did not wiſh I ſhould ſee her tears; but I ſaw them plain enough. Simon! pray, tell
-<pb n="25" facs="tcp:022638_0022_0FB9B6B45A16A278"/>
+<pb n="25" facs="unknown:022638_0022_0FB9B6B45A16A278"/>
 me what makes father and mother weep ſo much. It always makes me ſad to ſee them ſo ſorrowful.</p>
                   </sp>
                   <sp>
@@ -648,7 +648,7 @@ I fancy, Mr. William, you will be a philoſopher— ha! ha! ha!—</p>
                      <p>No improper queſtion!—Yet theſe people are ſtill graſping after more riches, and are often more unhappy than the poor.</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:022638_0023_0FB9B6B8D2B853F0"/>
+                     <pb n="26" facs="unknown:022638_0023_0FB9B6B8D2B853F0"/>
                      <speaker>WILLIAM.</speaker>
                      <p>That is very extraordinary—Do they never ſhare with the poor?</p>
                   </sp>
@@ -693,7 +693,7 @@ I fancy, Mr. William, you will be a philoſopher— ha! ha! ha!—</p>
                      <p>But, Simon! I had almoſt forgot. Tell me what makes my dear parents ſo ſad?</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:022638_0024_0FB9B6BB61D7B240"/>
+                     <pb n="27" facs="unknown:022638_0024_0FB9B6BB61D7B240"/>
                      <speaker>SIMON.</speaker>
                      <p>It is, I believe, becauſe they are not able to do as much good as they wiſh.</p>
                   </sp>
@@ -755,7 +755,7 @@ I fancy, Mr. William, you will be a philoſopher— ha! ha! ha!—</p>
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="28" facs="tcp:022638_0025_0FB9B6BCA069AF08"/>
+               <pb n="28" facs="unknown:022638_0025_0FB9B6BCA069AF08"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -794,7 +794,7 @@ I fancy, Mr. William, you will be a philoſopher— ha! ha! ha!—</p>
                         </floatingText>
                      </q>
                      <p>After all, I believe, I am rather too old to learn a new trade, eſpecially as it is contrary to
-<pb n="29" facs="tcp:022638_0026_0FB9B6BEDB6419A8"/>
+<pb n="29" facs="unknown:022638_0026_0FB9B6BEDB6419A8"/>
 my natural diſpoſition. I ſhall certainly make but a clumſy piece of work of it. What would I not give to be fairly out of this ſcrape! I have conjured up a great man in my brain; and now what muſt I make this great man ſay? I have it; I have it—But here comes my maſter. Mind your hits, Simon!—Sharp is the word!</p>
                   </sp>
                </div>
@@ -819,7 +819,7 @@ my natural diſpoſition. I ſhall certainly make but a clumſy piece of work of
                      <speaker>WILSON</speaker>
                      <stage>alone.</stage>
                      <p>Worthy creature! Now may I indulge the plea<g ref="char:EOLhyphen"/>ſing hope of being enabled to reward his ſervices. The letter is begun, and ſhall be finiſhed this e<g ref="char:EOLhyphen"/>vening. How tormenting is doubt! how enchant<g ref="char:EOLhyphen"/>ing is hope! My rapture will exceed all bounds, ſhould the anſwer to it ſpeak the language of pa<g ref="char:EOLhyphen"/>ternal love. That anſwer, the forerunner of bliſs, ſhall be bathed in the tears of filial affection. But ſhould my ſupplications be rejected—there is hor<g ref="char:EOLhyphen"/>ror in that thought!—Thou univerſal Father! hear my humble petition! Let me not be tempted be<g ref="char:EOLhyphen"/>yond my ſtrength! Suffer not the grave to receive an unrelenting father!—But what if Simon ſhould conduct my ſon to him?—Alas! the journey would
-<pb n="30" facs="tcp:022638_0027_0FB9B6C5619C4368"/>
+<pb n="30" facs="unknown:022638_0027_0FB9B6C5619C4368"/>
 anſwer no good purpoſe; and, as he has hitherto been educated in extreme ſimplicity, his ignorance of the world, although he is not deficient in natu<g ref="char:EOLhyphen"/>ral good ſenſe, might expoſe him to irreparable evils. But ſurely if the unoffending youth were placed before his grand-fire; ſhould he deliver to him my letter; and, claſping his knees, implore a bleſſing for himſelf and parents—flattering idea!—but vain and illuſive! Such is the ſituati<g ref="char:EOLhyphen"/>on of the unhappy man! He forms a thouſand and a thouſand projects. Diſappointed in all, he ex<g ref="char:EOLhyphen"/>periences ſtill greater miſery. But ſhould they go on this embaſſy of love, what ſupport can they expect during their abſence?</p>
                   </sp>
                </div>
@@ -841,7 +841,7 @@ anſwer no good purpoſe; and, as he has hitherto been educated in extreme ſimp
                   <sp>
                      <speaker>SIMON.</speaker>
                      <p>Pray, good Sir! do not make me proud of my poor ſervices. You will find it is no eaſy matter
-<pb n="31" facs="tcp:022638_0028_0FB9B6C7214862C0"/>
+<pb n="31" facs="unknown:022638_0028_0FB9B6C7214862C0"/>
 to perſuade me that I have even done my duty.— Be pleaſed, Sir, to accept—</p>
                   </sp>
                   <sp>
@@ -891,7 +891,7 @@ to perſuade me that I have even done my duty.— Be pleaſed, Sir, to accept—
                      </p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:022638_0029_0FB9B6C95B517C08"/>
+                     <pb n="32" facs="unknown:022638_0029_0FB9B6C95B517C08"/>
                      <speaker>SIMON.</speaker>
                      <p>That is out of my power. I never knew ſo ſqueamiſh a man in my life.</p>
                   </sp>
@@ -944,7 +944,7 @@ to perſuade me that I have even done my duty.— Be pleaſed, Sir, to accept—
                      <p>I told him, I did—and then he gave me the money, telling me to give it to you.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:022638_0030_0FB9B6CC393E7AE0"/>
+                     <pb n="33" facs="unknown:022638_0030_0FB9B6CC393E7AE0"/>
                      <speaker>WILSON.</speaker>
                      <p>And have you no knowledge of this worthy gentleman?</p>
                   </sp>
@@ -979,7 +979,7 @@ to perſuade me that I have even done my duty.— Be pleaſed, Sir, to accept—
                                  <l>Teach us, howe'er misfortune frown,</l>
                                  <l>That want is no diſgrace.</l>
                                  <l>
-                                    <pb n="34" facs="tcp:022638_0031_0FB9B6D0F5733270"/>Teach us, ſince guilt alone is woe,</l>
+                                    <pb n="34" facs="unknown:022638_0031_0FB9B6D0F5733270"/>Teach us, ſince guilt alone is woe,</l>
                                  <l>To ſmile at weak diſtreſs;</l>
                                  <l>The Power, who man afflicts below,</l>
                                  <l>Is prompt above to bleſs.</l>
@@ -1017,7 +1017,7 @@ to perſuade me that I have even done my duty.— Be pleaſed, Sir, to accept—
                      <p>There is too much truth in what you ſay. But ſpeak to the purpoſe.</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:022638_0032_0FB9B6D265305ED8"/>
+                     <pb n="35" facs="unknown:022638_0032_0FB9B6D265305ED8"/>
                      <speaker>SIMON.</speaker>
                      <p>I grew angry—very angry, Sir—when I recol<g ref="char:EOLhyphen"/>lected, that ſuch ſhould engroſs the good things of the world, whilſt the fineſt, the wiſeſt, and the moſt virtuous man on earth—whom, at preſent, I ſhall not preſume to name—together with the beſt, and moſt accompliſhed of her ſex—meaning your lady, Sir—ſhould live in want and miſery.</p>
                   </sp>
@@ -1036,7 +1036,7 @@ to perſuade me that I have even done my duty.— Be pleaſed, Sir, to accept—
                   <sp>
                      <speaker>SIMON.</speaker>
                      <p>With theſe thoughts in my head, I could not help loſing my temper. Is it right, ſays I—is it right that ſuch knaves ſhould poſſeſs almoſt all the gifts of nature, in which their fellow-creatures ought to ſhare? Shall one man waſte what would be enough for thouſands? My heart ready to
-<pb n="36" facs="tcp:022638_0033_0FB9B6D3F764AA00"/>
+<pb n="36" facs="unknown:022638_0033_0FB9B6D3F764AA00"/>
 break, I took up my burthen, and jogging on in a very bad humour ſaw a well dreſſed man in a croſs-road on horſe-back, advancing towards me. Suppoſe, thought I on a ſudden, I ſhould fright<g ref="char:EOLhyphen"/>en this fine ſpark into a little charity? He might very well ſhare with me his ſuperfluities; and where there is no harm done—there can be no injury received. In this manner I reaſoned.</p>
                   </sp>
                   <sp>
@@ -1054,7 +1054,7 @@ break, I took up my burthen, and jogging on in a very bad humour ſaw a well dre
                   <sp>
                      <speaker>SIMON.</speaker>
                      <p>I then threw my bundle amongſt the buſhes, and felt—as the man on horſe-back approached me—I can't tell you how I felt. At one time I was as bold as a lion, and then again I trembled like a hare. "Pleaſe to ſtop a little," cried I, taking hold of the bridle with my left hand, whilſt I <hi>accidentally</hi> flouriſhed my cudgel with my right; "be ſo kind as to lend me half of your money; and do not keep me long waiting, for I am in a confounded hurry. My friends expect me." His courage was certainly leſs than mine; otherwiſe he would have ſeen my confuſion and tremor, as I held the bridle. In ſhort he threw down this
-<pb n="37" facs="tcp:022638_0034_0FB9B6DB62D96300"/>
+<pb n="37" facs="unknown:022638_0034_0FB9B6DB62D96300"/>
 old green purſe. I took it into the wood, and after ſome time, ſeemed as if juſt awaking from a dream.—Now, Sir, if you will condeſcend to conſider all the circumſtances of this affair, I humbly preſume you will by no means condemn honeſt Simon to the gallows.</p>
                   </sp>
                   <sp>
@@ -1086,7 +1086,7 @@ old green purſe. I took it into the wood, and after ſome time, ſeemed as if j
                      <p>That is nothing to the purpoſe. We are for<g ref="char:EOLhyphen"/>bidden to wrong our fellow-creature in any, even the ſmalleſt, degree. Go up the moun<g ref="char:EOLhyphen"/>tain. Perhaps you will ſee him on one or other of the roads leading to town.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:022638_0035_0FB9B6DCDE78A8C0"/>
+                     <pb n="38" facs="unknown:022638_0035_0FB9B6DCDE78A8C0"/>
                      <speaker>SIMON.</speaker>
                      <p>And if I ſee him, muſt I in good earneſt—</p>
                   </sp>
@@ -1131,7 +1131,7 @@ old green purſe. I took it into the wood, and after ſome time, ſeemed as if j
                   <sp>
                      <speaker>WILSON ſenior.</speaker>
                      <p>Excuſe, Sir, my intruſion. I have loſt my way, and cannot find my ſervant, who left me for
-<pb n="39" facs="tcp:022638_0036_0FB9B6DEB9782880"/>
+<pb n="39" facs="unknown:022638_0036_0FB9B6DEB9782880"/>
 the purpoſe of diſcovering the right road.
 <stage>(He ob<g ref="char:EOLhyphen"/>ſerves Simon.)</stage>
 Heaven! be merciful to me, or I ſhall certainly be murdered!</p>
@@ -1162,7 +1162,7 @@ was humane enough to con<g ref="char:EOLhyphen"/>tent himſelf with a part of my
                   <sp>
                      <speaker>SIMON.</speaker>
                      <p>I am—as you ſee, Sir—overwhelmed with ſhame and ſorrow. Be pleaſed to receive what deſperati<g ref="char:EOLhyphen"/>on and the dread of ſtarving compelled me to take from you. Alas! Sir, I was driven to undertake this buſineſs, by no means ſuited to my talents, by my maſter—I mean, Sir—by my maſter's diſ<g ref="char:EOLhyphen"/>treſſes, and thoſe of his family. Heaven, I hope, as well as your worſhip, will pardon me for an action, which I abhor in my heart. Here is
-<pb n="40" facs="tcp:022638_0037_0FB9B6E0F581F7B0"/>
+<pb n="40" facs="unknown:022638_0037_0FB9B6E0F581F7B0"/>
 your purſe, Sir—take it, and with it its full con<g ref="char:EOLhyphen"/>tents; a load, which would have lain heavy up<g ref="char:EOLhyphen"/>on my mind the longeſt day I have to live. I was looking out for your worſhip for this very pur<g ref="char:EOLhyphen"/>poſe.</p>
                   </sp>
                   <sp>
@@ -1191,7 +1191,7 @@ your purſe, Sir—take it, and with it its full con<g ref="char:EOLhyphen"/>ten
                   <sp>
                      <speaker>WILSON ſenior.</speaker>
                      <p>My worthy friend! (pardon the liberty I take in thus addreſſing you) your converſation and behaviour convince me, that your mind is—and ought to be—ſuperior to your preſent condition.
-<pb n="41" facs="tcp:022638_0038_0FB9B6E21A3463A8"/>
+<pb n="41" facs="unknown:022638_0038_0FB9B6E21A3463A8"/>
 Your misfortunes muſt have flowed from no com<g ref="char:EOLhyphen"/>mon ſource.</p>
                   </sp>
                   <sp>
@@ -1221,7 +1221,7 @@ Your misfortunes muſt have flowed from no com<g ref="char:EOLhyphen"/>mon ſour
                      <p>I am heartily glad, he has not been guilty of murder.</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:022638_0039_0FB9B6E707C39450"/>
+                     <pb n="42" facs="unknown:022638_0039_0FB9B6E707C39450"/>
                      <speaker>WILSON ſenior.</speaker>
                      <p>What ſpot of earth contains their duſt! What pitying ſkies ſhed their dews on their graves! Guide me, gracious Heaven! to where they reſt from anguiſh. There will I tear up by the roots my grey hairs, ſcatter them to all the wind of heaven, and in the bitterneſs of woe await my ar<g ref="char:EOLhyphen"/>dently expected diſſolution. O! moſt unfortu<g ref="char:EOLhyphen"/>nate of fathers!—But perhaps I have no child!
 <stage>(In taking out his handkerchief he drops a letter, which Simon picks up and endeavours to read.)</stage>
@@ -1250,7 +1250,7 @@ You have my compaſſion, Sir.—You are an afflicted father; and I—</p>
                      <p>What is this I read? or am I in a dream? Is this paper yours?</p>
                   </sp>
                   <sp>
-                     <pb n="43" facs="tcp:022638_0040_0FB9B6E99F10B688"/>
+                     <pb n="43" facs="unknown:022638_0040_0FB9B6E99F10B688"/>
                      <speaker>WILSON ſenior.</speaker>
                      <p>What paper?</p>
                   </sp>
@@ -1290,7 +1290,7 @@ You have my compaſſion, Sir.—You are an afflicted father; and I—</p>
                      <speaker>SIMON</speaker>
                      <stage>(returning with William.)</stage>
                      <p>Kneel down, my brave lad! and aſk grand-papa's bleſſing. Now ye are all happy—and I as much as any of you. A moment has driven away all
-<pb n="44" facs="tcp:022638_0041_0FB9B6EB20C49878"/>
+<pb n="44" facs="unknown:022638_0041_0FB9B6EB20C49878"/>
 our ſorrows; thanks to Simon's cleverneſs, and the virtues of the old green purſe. A little while ago I was half mad with grief, and now I am quite fooliſh with joy.</p>
                   </sp>
                   <sp>
@@ -1315,7 +1315,7 @@ our ſorrows; thanks to Simon's cleverneſs, and the virtues of the old green pu
                      <speaker>WILSON ſenior</speaker>
                      <stage>(ſeated.)</stage>
                      <p>As you quitted your firſt place of reſidence, my inquiries were fruitleſs. I have traverſed various regions in queſt of you. Bleſſed be the hour, which enſures felicity to my declining age! For<g ref="char:EOLhyphen"/>give
-<pb n="45" facs="tcp:022638_0042_0FB9B6EEF429C668"/>
+<pb n="45" facs="unknown:022638_0042_0FB9B6EEF429C668"/>
 me, my ſon! for my unrelenting ſeverity. In truth it brought with it its own puniſhment.</p>
                   </sp>
                   <sp>
@@ -1346,7 +1346,7 @@ me, my ſon! for my unrelenting ſeverity. In truth it brought with it its own p
 no longer to reproach yourſelf; but enter our cot<g ref="char:EOLhyphen"/>tage. We all ſtand in need of compoſure, after having experienced the extremes of grief, of hope, and of joy. Let us now bend in gratitude to Heaven!</p>
                   </sp>
                   <q>
-                     <pb n="46" facs="tcp:022638_0043_0FB9B6F2B3E9C798"/>
+                     <pb n="46" facs="unknown:022638_0043_0FB9B6F2B3E9C798"/>
                      <floatingText xml:lang="unk">
                         <body>
                            <div type="song">
@@ -1400,7 +1400,7 @@ no longer to reproach yourſelf; but enter our cot<g ref="char:EOLhyphen"/>tage.
                            </div>
                            <div type="song">
                               <sp>
-                                 <pb n="47" facs="tcp:022638_0044_0FB9B6F3C6593E80"/>
+                                 <pb n="47" facs="unknown:022638_0044_0FB9B6F3C6593E80"/>
                                  <speaker>DEBORAH.</speaker>
                                  <lg>
                                     <head>
@@ -1448,7 +1448,7 @@ no longer to reproach yourſelf; but enter our cot<g ref="char:EOLhyphen"/>tage.
                                     <l>To nature if juſt, we moſt evils defy;</l>
                                     <l>It charms us on earth, and conducts to the ſky.</l>
                                     <l>
-                                       <pb n="48" facs="tcp:022638_0045_0FB9B6F4DBF983A8"/>If fond of our friends and our kindred we prove,</l>
+                                       <pb n="48" facs="unknown:022638_0045_0FB9B6F4DBF983A8"/>If fond of our friends and our kindred we prove,</l>
                                     <l>Our country may ſafely depend on our love.</l>
                                     <l>Then may true affection each boſom poſſeſs!</l>
                                     <l>'Tis the parent of union! the ſource of ſucceſs!</l>
